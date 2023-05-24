@@ -13,6 +13,6 @@
 
 
 
-![Snake animation](https://github.com/Bubblesu/Bubblesu/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Bubblesu/Bubblesu/blob/output/github-contribution-grid-snake.svg)
 
 
