@@ -1,5 +1,5 @@
 <div align="center">
-    <img max-width="800" style="opacity: 0.5; border-radius: 15px" src="wolf.png"/>
+    <img max-width="800" style="opacity: 0.3; border-radius: 15px" src="wolf.png"/>
 
 ## <img height="40" src="bubble.gif"/> <img height="40" src="bubble.gif"/>
 
