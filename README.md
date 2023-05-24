@@ -1,9 +1,10 @@
 <div align="center">
+    
     <img max-width="800" height="400" style="opacity: 0.7; border-radius: 15px" src="wolf2.gif"/>
 
-## <img height="40" src="bubble.gif"/> <img height="40" src="bubble.gif"/>
-
 </div>
+
+## <img height="40" src="bubble.gif"/> <img height="40" src="bubble.gif"/>
 
 
 ## <img height="23" src="wings.webp"/>   [![GitHub: @Bubblesu](https://img.shields.io/github/followers/Bubblesu?label=follow&style=social)](https://github.com/) [![Gmail: Lana](https://img.shields.io/badge/Gmail-Lana-red)](mailto:milksuberry@gmail.com) [![Linkedin: Lana R](https://img.shields.io/badge/-Lana%20R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lana-ramos-5410b7201/)](https://www.linkedin.com/in/lana-ramos-5410b7201/)
