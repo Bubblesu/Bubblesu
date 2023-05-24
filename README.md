@@ -1,5 +1,5 @@
 <div align="center">
-    <img max-width="800" height="300" style="opacity: 0.7; border-radius: 15px" src="wolf2.gif"/>
+    <img max-width="800" height="300" style=" border-radius: 15px" src="sky2.webp"/>
 
 ## <img height="40" src="bubble.gif"/> <img height="40" src="bubble.gif"/>
 
