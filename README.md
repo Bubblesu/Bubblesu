@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C5E9FE&height=100&section=header&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+
 <div align="center">
     <img max-width="720" height="400" src="./assets/bubblesu.gif"/>
     <img height="40" src="./assets/bubble.gif"/> <img height="40" src="./assets/bubble.gif"/>
