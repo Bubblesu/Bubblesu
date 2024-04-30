@@ -1,16 +1,29 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C5E9FE&height=100&section=header&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 <div align="center">
-    <img max-width="720" height="400" src="./assets/bubblesu.gif"/>
-
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+space++%E2%82%8A++%E2%8A%B9+" alt="Typing SVG" /></a>
 </div>
+ 
+```python
+
+class LanaR:
+
+    def __init__(self):
+        self.name = "Lana Ramos"
+        self.learning = "Python"
+        self.role = "Developer Student"
+        self.tech = ["Html", "CSS", "JS"]
+        self.language_spoken = ["pt_BR", "en_US"]
+
+    def my_contact(self):
+        self.contact = "lanaramos221@gmail.com"
+
+    def say_hi(self):
+        print("Feel free to visit my repositories.  ₍ᐢᐢ₎  ₊ ⊹ ")
 
 
-## <img height="23" src="./assets/wings.webp"/>   [![GitHub: @Bubblesu](https://img.shields.io/github/followers/Bubblesu?label=follow&style=social)](https://github.com/) [![Gmail: Lana](https://img.shields.io/badge/Gmail-Lana-red)](mailto:milksuberry@gmail.com) [![Linkedin: Lana R](https://img.shields.io/badge/-Lana%20R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lana-ramos-5410b7201/)](https://www.linkedin.com/in/lana-ramos-5410b7201/)
+me = LanaR()
+me.say_hi()
+me.my_contact()
+```
 
-<div>
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=bubblesu&show_icons=true&include_all_commits=true&count_private=true&custom_title=☁️MyStates"/> 
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubblesu&layout=compact&langs_count=6&custom_title=☁️Languages"/>
-</div>
-
-![Snake animation](https://github.com/Bubblesu/Bubblesu/blob/output/github-contribution-grid-snake.svg)
