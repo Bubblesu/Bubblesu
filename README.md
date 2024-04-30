@@ -26,4 +26,7 @@ me = LanaR()
 me.say_hi()
 me.my_contact()
 ```
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lanarsu&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=87CEFA&bg_color=FFFFFF" alt="Lana R github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanarsu&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=FFFFFF" />
+</div>
